@@ -1,0 +1,5 @@
+CONSUMER_KEY = '75v246fh4iijx4'
+CONSUMER_SECRET = 'Z6kg4FggxHnsn8Bg'
+USER_TOKEN = '954847f7-1997-4d26-a5c1-2c4d094ffba0'
+USER_SECRET = '891193a8-4d13-45b9-bafd-abbd3178c5b7'
+RETURN_URL = 'http://localhost:9999'

@@ -1,0 +1,3 @@
+python-linkedin
+requests
+requests_oauthlib
